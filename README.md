@@ -19,7 +19,3 @@ A simple Student Management System built using Python.
 3. Run:
 
 python student.py
-
-## Author
-
-Rithiga
